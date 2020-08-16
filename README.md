@@ -1,2 +1,4 @@
-# rowspan-groupby-javascript
-Gráficar tabla con Javascript - rowspan - groupby
+# rowspan-groupBy-javascript
+Gráficar tabla con Javascript - rowspan - groupby:
+
+Les comparto la solución de un problema que alguna vez tuve para gráficar una tabla con Javascript, teniendo en cuenta un sistema de calendario, en el que hay varias actividades para un mismo día, por lo que la tabla debe tener un group by que permita la distribución uniforme de la tabla, haciendo referencia a la visualización de una única fecha y usuario, con varias actividades asignadas en horarios diferentes.
