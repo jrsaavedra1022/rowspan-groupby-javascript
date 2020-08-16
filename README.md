@@ -5,5 +5,4 @@ Les comparto la solución de un problema que alguna vez tuve para gráficar una 
 
 Resultado Final:
 
-https://raw.githubusercontent.com/jrsaavedra1022/rowspan-groupby-javascript/master/assets/result-rowspan-groupby-javascript.PNG
-https://github.com/jrsaavedra1022/rowspan-groupby-javascript/blob/master/assets/result-rowspan-groupby-javascript.PNG
+![Imagen de descripción del resultado Final](https://raw.githubusercontent.com/jrsaavedra1022/rowspan-groupby-javascript/master/assets/result-rowspan-groupby-javascript.PNG)
